@@ -1,5 +1,7 @@
 class Main {
     public static void main(String[] args){
-        System.out.println("Hello Jitu Bhaiya!!!");
+        System.out.println("-------------------------------");
+        System.out.println("------  Welcome  -------");
+        System.out.println("-------------------------------");
     }
 }
